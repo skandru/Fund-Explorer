@@ -1,4 +1,4 @@
-# SFDX  App
+## Fund Explorer  App
 
 ## Dev, Build and Test
 
